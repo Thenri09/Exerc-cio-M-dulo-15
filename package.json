@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Projeto CI/CD com testes automatizados",
   "main": "index.js",
- "scripts": {
-  "test": "mocha --reporter mochawesome --reporter-options reportDir=report,reportFilename=index"
+"scripts": {
+  "test": "node ./node_modules/mocha/bin/mocha.js --reporter mochawesome --reporter-options reportDir=report,reportFilename=index"
 },
   "author": "",
   "license": "ISC",

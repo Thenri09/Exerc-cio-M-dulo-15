@@ -5,9 +5,9 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2026-02-18T21:49:54.043Z",
-    "end": "2026-02-18T21:49:54.048Z",
-    "duration": 5,
+    "start": "2026-02-18T21:54:39.561Z",
+    "end": "2026-02-18T21:54:39.565Z",
+    "duration": 4,
     "testsRegistered": 1,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "227eea2e-c0fd-4a54-9f09-62b17157ea48",
+      "uuid": "8e8c7767-3780-4f5b-a63b-53ecf6551dc3",
       "title": "",
       "fullFile": "C:\\Users\\thghe\\Exerc-cio-M-dulo-15\\test\\soma.test.js",
       "file": "\\test\\soma.test.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "07913278-f158-4577-968f-8ed6c19e77b8",
+          "uuid": "858d52aa-4bb1-4ca8-9dd3-ef78a6ba948a",
           "title": "Função Soma",
           "fullFile": "C:\\Users\\thghe\\Exerc-cio-M-dulo-15\\test\\soma.test.js",
           "file": "\\test\\soma.test.js",
@@ -38,7 +38,7 @@
               "title": "Deve somar dois números corretamente",
               "fullTitle": "Função Soma Deve somar dois números corretamente",
               "timedOut": false,
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast",
               "pass": true,
@@ -47,20 +47,20 @@
               "context": null,
               "code": "expect(soma(2, 3)).to.equal(5);",
               "err": {},
-              "uuid": "372b13e6-593c-4ae8-9d25-247dfe5a03f7",
-              "parentUUID": "07913278-f158-4577-968f-8ed6c19e77b8",
+              "uuid": "b9595e12-61e5-4703-822e-f44fe4a58a44",
+              "parentUUID": "858d52aa-4bb1-4ca8-9dd3-ef78a6ba948a",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "372b13e6-593c-4ae8-9d25-247dfe5a03f7"
+            "b9595e12-61e5-4703-822e-f44fe4a58a44"
           ],
           "failures": [],
           "pending": [],
           "skipped": [],
-          "duration": 0,
+          "duration": 1,
           "root": false,
           "rootEmpty": false,
           "_timeout": 2000
