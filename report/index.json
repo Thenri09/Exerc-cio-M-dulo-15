@@ -5,8 +5,8 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2026-02-18T21:45:36.434Z",
-    "end": "2026-02-18T21:45:36.439Z",
+    "start": "2026-02-18T21:49:54.043Z",
+    "end": "2026-02-18T21:49:54.048Z",
     "duration": 5,
     "testsRegistered": 1,
     "passPercent": 100,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "833148b1-7378-4656-bc97-7bda619ebd43",
+      "uuid": "227eea2e-c0fd-4a54-9f09-62b17157ea48",
       "title": "",
       "fullFile": "C:\\Users\\thghe\\Exerc-cio-M-dulo-15\\test\\soma.test.js",
       "file": "\\test\\soma.test.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "e7abf2d6-00b4-4888-a46e-0082922d1fa7",
+          "uuid": "07913278-f158-4577-968f-8ed6c19e77b8",
           "title": "Função Soma",
           "fullFile": "C:\\Users\\thghe\\Exerc-cio-M-dulo-15\\test\\soma.test.js",
           "file": "\\test\\soma.test.js",
@@ -47,15 +47,15 @@
               "context": null,
               "code": "expect(soma(2, 3)).to.equal(5);",
               "err": {},
-              "uuid": "c7b1c8be-3841-4256-886f-8afb5f528231",
-              "parentUUID": "e7abf2d6-00b4-4888-a46e-0082922d1fa7",
+              "uuid": "372b13e6-593c-4ae8-9d25-247dfe5a03f7",
+              "parentUUID": "07913278-f158-4577-968f-8ed6c19e77b8",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "c7b1c8be-3841-4256-886f-8afb5f528231"
+            "372b13e6-593c-4ae8-9d25-247dfe5a03f7"
           ],
           "failures": [],
           "pending": [],
