@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Projeto CI/CD com testes automatizados",
   "main": "index.js",
-"scripts": {
-  "test": "npx mocha --reporter mochawesome --reporter-options reportDir=report,reportFilename=index"
-}
+  "scripts": {
+    "test": "npx mocha --reporter mochawesome --reporter-options reportDir=report,reportFilename=index"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -14,3 +14,4 @@
     "mochawesome": "^7.1.3"
   }
 }
+
